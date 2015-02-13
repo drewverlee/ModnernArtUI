@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Modern Art UI</string>
+    <string name="information">More information</string>
+
+    <string name="MOMA_text">This App is Modern Art, to view more click "Visit MOMA" to visit the Museum of Modern Art</string>
+    <string name="MOMA_not_now">Not now</string>
+    <string name="MOMA_visit">Visit MOMA</string>
+
+    <string name="open">Open with</string>
+
+    <color name="purple">#663399</color>
+    <color name="pink">#ffdae0</color>
+    <color name="candy">#ff7373</color>
+    <color name="blue">#00aff0</color>
+    <color name="green">#75ab00</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#afb9ba</color>
+    <color name="black">#333333</color>
+
+</resources>
